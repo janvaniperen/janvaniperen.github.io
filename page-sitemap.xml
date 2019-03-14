@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://janvaniperen.com/stuff-i-use/</loc>
+        <lastmod>2019-03-14T16:38:46.199Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://janvaniperen.com/404.html</loc>
         <lastmod>2019-03-12T10:40:51.473Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,13 +24,6 @@
     <url>
         <loc>https://janvaniperen.com/about/</loc>
         <lastmod>2019-03-05T15:35:00.596Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://janvaniperen.com/stuff-i-use/</loc>
-        <lastmod>2019-02-11T20:17:28.945Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
