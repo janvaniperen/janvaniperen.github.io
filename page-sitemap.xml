@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://janvaniperen.com//mip/</loc>
+        <lastmod>2019-11-21T01:48:49.102Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://janvaniperen.com/about/</loc>
         <lastmod>2019-10-06T18:58:08.637Z</lastmod>
         <changefreq>weekly</changefreq>
